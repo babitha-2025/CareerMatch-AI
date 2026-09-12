@@ -4746,7 +4746,7 @@ with tabs[6]:
             )
 
         st.markdown(
-            html,
+            html_content,
             unsafe_allow_html=True
         )
 
