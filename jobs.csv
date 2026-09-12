@@ -1,0 +1,9 @@
+job_id,title,company,location,skills,experience,salary,description,apply_url
+1,Data Analyst,ABC Technologies,Bengaluru,"Python,SQL,Excel,Power BI",0-2 years,600000,Analyze business data and create reports,https://www.linkedin.com/jobs/
+2,Machine Learning Engineer,XYZ AI,Bengaluru,"Python,Machine Learning,TensorFlow,SQL",0-2 years,800000,Build and deploy machine learning models,https://www.linkedin.com/jobs/
+3,Python Developer,Tech Solutions,Hyderabad,"Python,Django,SQL,REST API",0-2 years,650000,Develop backend applications,https://www.linkedin.com/jobs/
+4,Data Scientist,AI Labs,Hyderabad,"Python,SQL,Machine Learning,Pandas",1-3 years,900000,Develop predictive models and analyze data,https://www.linkedin.com/jobs/
+5,Business Analyst,Global Corp,Bengaluru,"Excel,SQL,Power BI,Statistics",0-2 years,600000,Analyze business requirements and prepare reports,https://www.linkedin.com/jobs/
+6,Software Engineer,TechWorks,Pune,"Python,Java,SQL,Git",0-2 years,700000,Develop and maintain software applications,https://www.linkedin.com/jobs/
+7,Junior Data Analyst,DataCorp,Bengaluru,"Python,SQL,Pandas,Excel",0-1 years,500000,Perform data analysis and prepare dashboards,https://www.linkedin.com/jobs/
+8,AI Intern,Future AI,Bengaluru,"Python,Machine Learning,NumPy,Pandas",Fresher,300000,Assist with AI and machine learning projects,https://www.linkedin.com/jobs/
